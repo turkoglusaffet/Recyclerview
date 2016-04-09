@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="loginBackground">#08053b</color>
+    <color name="black">#FF000000</color>
+    <color name="listBg">#ffebebeb</color>
+    <color name="cardViewBg">#ffffff</color>
+    <color name="cardBottomBg">#f2f6fd</color>
+    <color name="menuBg">#cccc</color>
+    <color name="red">#ccfd0909</color>
+    <color name="green">#cc05ab02</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

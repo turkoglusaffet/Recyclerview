@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo3</string>
+    <string name="title_animals_name">Hayvan Resimleri</string>
+    <string name="title_animals_img">Hayvan İsimleri</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment 1 </string>
+    <string name="hello_blank_fragment2">Hello blank fragment 2</string>
+
+</resources>
